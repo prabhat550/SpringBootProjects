@@ -1,0 +1,21 @@
+server:
+  port: 8081
+
+ 
+#spring:
+#  security:
+#    user:
+#      name: akhil
+#      password: akhil
+#      roles: ADMIN, USER
+#
+#security:
+#  oauth2:
+#    client:
+#      client-id: mobile
+#      client-secret: pin
+#      authorized-grant-types: refresh_token,authorization_code,password,client_credentials
+#      scope: READ, WRITE
+#      access-token-validity-seconds: 3600
+#    authorization:
+#      check-token-access: permitAll
